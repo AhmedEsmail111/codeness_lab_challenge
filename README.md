@@ -1,16 +1,16 @@
 # listie
 
-A new Flutter project.
+An app that shows a list of products.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project is implemented with Clean Architecture and adhering to best practices.
+I used Retrofit for Api integration,Cubit as a state management and injectable as a dependency injection tool. I also implemented unit testing.
 
-A few resources to get you started if this is your first Flutter project:
+You can download and install the app using the following link:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://drive.google.com/file/d/1FKgPRfIhMrrrjFHmGEyNfTyleog55yhM/view?usp=share_link
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
